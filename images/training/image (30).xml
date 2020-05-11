@@ -1,0 +1,26 @@
+<annotation>
+	<folder>inputimages</folder>
+	<filename>image (30).png</filename>
+	<path>C:\Users\cdoherty\AppData\Local\Programs\Python\Python38\Scripts\inputimages\image (30).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>52</width>
+		<height>93</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fishingcape</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>52</xmax>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+</annotation>
