@@ -32,6 +32,22 @@ FLAGS = flags.FLAGS
 def class_text_to_int(row_label):
         if row_label == "amulet":
             return 1
+        elif row_label == "axe":
+            return 2
+        elif row_label == "beret":
+            return 3
+        elif row_label == "prayerbook":
+            return 4
+        elif row_label == "mysterybox":
+            return 5
+        elif row_label == "bracelet":
+            return 6
+        elif row_label == "cannon":
+            return 7
+        elif row_label == "chest":
+            return 8
+        elif row_label == "scroll":
+            return 9
         elif row_label == "crossbow":
             return 10
         elif row_label == "dragonshield":
@@ -52,8 +68,6 @@ def class_text_to_int(row_label):
             return 18
         elif row_label == "logs":
             return 19
-        elif row_label == "axe":
-            return 2
         elif row_label == "mask":
             return 20
         elif row_label == "necklace":
@@ -74,26 +88,12 @@ def class_text_to_int(row_label):
             return 28
         elif row_label == "scroll3":
             return 29
-        elif row_label == "beret":
-            return 3
         elif row_label == "fishingcape":
             return 30
         elif row_label == "skull":
             return 31
         elif row_label == "birdbook":
             return 32
-        elif row_label == "prayerbook":
-            return 4
-        elif row_label == "mysterybox":
-            return 5
-        elif row_label == "bracelet":
-            return 6
-        elif row_label == "cannon":
-            return 7
-        elif row_label == "chest":
-            return 8
-        elif row_label == "scroll":
-            return 9
         else:
             None
 
