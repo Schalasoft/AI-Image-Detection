@@ -29,148 +29,72 @@ FLAGS = flags.FLAGS
 
 # TO-DO replace this with label map
 def class_text_to_int(row_label):
-    #if row_label == 'raccoon':
-     #   return 1
-    #else:
-     #   None
-     switch (row_label) {
-        if row_label == "amulet"
+        if row_label == "amulet":
             return 1
-        else if row_label == "crossbow"
+        elif row_label == "crossbow":
             return 10
-        else if row_label == "dragonshield"
+        elif row_label == "dragonshield":
             return 11
-        else if row_label == "egg"
+        elif row_label == "egg":
             return 12
-        else if row_label == "lavacape"
+        elif row_label == "lavacape":
             return 13
-        else if row_label == "infernocape"
+        elif row_label == "infernocape":
             return 14
-        else if row_label == "fish1"
+        elif row_label == "fish1":
             return 15
-        else if row_label == "wizardhat"
+        elif row_label == "wizardhat":
             return 16
-        else if row_label == "kiteshield"
+        elif row_label == "kiteshield":
             return 17
-        else if row_label == "genielamp"
+        elif row_label == "genielamp":
             return 18
-        else if row_label == "logs"
+        elif row_label == "logs":
             return 19
-        else if row_label == "axe"
+        elif row_label == "axe":
             return 2
-        else if row_label == "mask"
+        elif row_label == "mask":
             return 20
-        else if row_label == "necklace"
+        elif row_label == "necklace":
             return 21
-        else if row_label == "partyhat"
+        elif row_label == "partyhat":
             return 22
-        else if row_label == "platearmour"
+        elif row_label == "platearmour":
             return 23
-        else if row_label == "ironplatearmour"
+        elif row_label == "ironplatearmour":
             return 24
-        else if row_label == "egg2"
+        elif row_label == "egg2":
             return 25
-        else if row_label == "vial"
+        elif row_label == "vial":
             return 26
-        else if row_label == "angrypumpkin"
+        elif row_label == "angrypumpkin":
             return 27
-        else if row_label == "scroll2"
+        elif row_label == "scroll2":
             return 28
-        else if row_label == "scroll3"
+        elif row_label == "scroll3":
             return 29
-        else if row_label == "beret"
+        elif row_label == "beret":
             return 3
-        else if row_label == "fishingcape"
+        elif row_label == "fishingcape":
             return 30
-        else if row_label == "skull"
+        elif row_label == "skull":
             return 31
-        else if row_label == "birdbook"
+        elif row_label == "birdbook":
             return 32
-        else if row_label == "prayerbook"
+        elif row_label == "prayerbook":
             return 4
-        else if row_label == "mysterybox"
+        elif row_label == "mysterybox":
             return 5
-        else if row_label == "bracelet"
+        elif row_label == "bracelet":
             return 6
-        else if row_label == "cannon"
+        elif row_label == "cannon":
             return 7
-        else if row_label == "chest"
+        elif row_label == "chest":
             return 8
-        else if row_label == "scroll"
+        elif row_label == "scroll":
             return 9
-#..... up to 32
-        else
-            return None
-
-         
-        case 1:  item = "January";
-             break;
-        case 2:  item = "February";
-             break;
-        case 3:  item = "March";
-             break;
-        case 4:  item = "April";
-             break;
-        case 5:  item = "May";
-             break;
-        case 6:  item = "June";
-             break;
-        case 7:  item = "July";
-             break;
-        case 8:  item = "August";
-             break;
-        case 9:  item = "September";
-             break;
-        case 10: item = "October";
-             break;
-        case 11: item = "November";
-             break;
-        case 12: item = "December";
-             break;
-        case 13:  item = "January";
-             break;
-        case 14:  item = "February";
-             break;
-        case 15:  item = "March";
-             break;
-        case 16:  item = "April";
-             break;
-        case 17:  item = "May";
-             break;
-        case 18:  item = "June";
-             break;
-        case 19:  item = "July";
-             break;
-        case 20:  item = "August";
-             break;
-        case 21:  item = "September";
-             break;
-        case 22: item = "October";
-             break;
-        case 23: item = "November";
-             break;
-        case 24: item = "December";
-             break;
-        case 25:  item = "January";
-             break;
-        case 26:  item = "February";
-             break;
-        case 27:  item = "March";
-             break;
-        case 28:  item = "April";
-             break;
-        case 29:  item = "May";
-             break;
-        case 30:  item = "June";
-             break;
-        case 31:  item = "July";
-             break;
-        case 32:  item = "August";
-             break;
-        default: item = None;
-             break;
-        }
-
+        else:
+            None
 
 def split(df, group):
     data = namedtuple('data', ['filename', 'object'])
