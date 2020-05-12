@@ -8,7 +8,7 @@ import argparse
 
 
 def get_parent_dir(n=1):
-    """ returns the n-th parent dicrectory of the current
+    """ returns the n-th parent directory of the current
     working directory """
     current_path = os.path.dirname(os.path.abspath(__file__))
     for k in range(n):
@@ -17,7 +17,7 @@ def get_parent_dir(n=1):
 
 
 sys.path.append(os.path.join(get_parent_dir(1), "Utils"))
-from Convert_Format import convert_vott_csv_to_yolo
+from Utils.Convert_Format import convert_vott_csv_to_yolo
 
 Data_Folder = os.path.join(get_parent_dir(1), "Data")
 VoTT_Folder = os.path.join(
@@ -30,7 +30,7 @@ model_folder = os.path.join(Data_Folder, "Model_Weights")
 classes_filename = os.path.join(model_folder, "data_classes.txt")
 
 if __name__ == "__main__":
-    # surpress any inhereted default values
+    # suppress any inherited default values
     parser = argparse.ArgumentParser(argument_default=argparse.SUPPRESS)
     """
     Command line options

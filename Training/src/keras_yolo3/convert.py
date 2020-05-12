@@ -69,6 +69,7 @@ def unique_config_sections(config_file):
 def _main(args):
     config_path = os.path.expanduser(args.config_path)
     weights_path = os.path.expanduser(args.weights_path)
+    print('Weights path : ' + weights_path)
     assert config_path.endswith(".cfg"), "{} is not a .cfg file".format(config_path)
     assert weights_path.endswith(".weights"), "{} is not a .weights file".format(
         weights_path
