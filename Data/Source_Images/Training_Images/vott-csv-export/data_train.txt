@@ -1,100 +1,200 @@
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1).jpg 34,30,115,121,0 104,72,181,143,1 138,95,197,165,2 169,130,247,228,3
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(100).jpg 44,58,119,134,0 96,75,190,159,4 130,126,219,189,5 164,140,256,226,6
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1000).jpg 35,1,113,96,7 100,53,144,123,2 107,68,185,163,8 152,106,235,208,9
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(10).jpg 39,15,124,97,5 81,54,155,136,0 123,95,198,172,1
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(100).jpg 44,58,119,134,0 96,75,190,159,1 130,126,219,189,2 164,140,256,226,3
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1).jpg 34,30,115,121,0 104,72,181,143,4 138,95,197,165,5 169,130,247,228,6
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(10).jpg 39,15,124,97,2 81,54,155,136,0 123,95,198,172,4
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1000).jpg 35,1,113,96,7 100,53,144,123,5 107,68,185,163,8 152,106,235,208,9
 C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1001).jpg 25,47,120,139,10 108,68,186,167,11 142,122,216,196,10 179,120,237,228,12
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1004).jpg 11,25,122,137,13
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1002).jpg 31,25,109,141,8 127,80,186,170,14 127,80,186,170,1 127,80,186,170,2
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1005).jpg 27,14,116,109,15 80,67,174,146,6 135,96,207,186,15 184,130,234,223,16 209,167,258,247,17
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1003).jpg 36,9,127,97,3 36,9,127,97,18
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1006).jpg 20,34,108,130,19 108,87,192,171,19 155,119,221,205,15 189,148,271,241,8
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1008).jpg 31,15,123,97,20 79,57,167,120,16 105,74,171,149,21 140,104,226,192,22
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1009).jpg 30,27,119,95,5 75,55,177,142,22
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1007).jpg 30,44,120,141,9 94,67,191,170,13 141,120,235,201,6
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(101).jpg 40,8,113,107,8 65,42,151,119,20 119,78,191,165,23 148,113,221,210,8
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1010).jpg 28,49,120,115,24 100,88,195,151,5 144,113,201,206,16 170,143,254,236,12
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1002).jpg 31,25,109,141,8 127,80,186,170,13 127,80,186,170,4 127,80,186,170,5
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1003).jpg 36,9,127,97,6 36,9,127,97,14
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1004).jpg 11,25,122,137,15
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1006).jpg 20,34,108,130,16 108,87,192,171,16 155,119,221,205,17 189,148,271,241,8
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1005).jpg 27,14,116,109,17 80,67,174,146,3 135,96,207,186,17 184,130,234,223,18 209,167,258,247,19
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1009).jpg 30,27,119,95,2 75,55,177,142,20
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1010).jpg 28,49,120,115,21 100,88,195,151,2 144,113,201,206,18 170,143,254,236,12
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1007).jpg 30,44,120,141,9 94,67,191,170,15 141,120,235,201,3
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1008).jpg 31,15,123,97,22 79,57,167,120,18 105,74,171,149,23 140,104,226,192,20
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(101).jpg 40,8,113,107,8 65,42,151,119,22 119,78,191,165,24 148,113,221,210,8
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1014).jpg 46,50,115,142,13
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1012).jpg 22,21,123,108,2
 C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1011).jpg 20,15,130,104,25
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1014).jpg 46,50,115,142,14
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1013).jpg 26,19,118,114,23 85,65,172,155,4 128,97,207,184,19 152,128,243,219,26 205,175,279,248,0
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1012).jpg 22,21,123,108,5
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1015).jpg 17,32,119,139,16
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1019).jpg 51,45,113,131,14 98,62,185,154,27 124,101,216,188,28 151,132,230,211,13 184,147,279,240,15
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1016).jpg 43,46,116,135,0 99,68,194,161,19 133,111,232,187,16 186,132,266,230,9 214,183,287,250,3
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1018).jpg 18,15,112,103,20 87,49,149,149,3 150,93,198,171,17 161,139,247,214,6
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1017).jpg 32,31,110,138,3 115,64,178,166,11 153,103,212,206,17
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(102).jpg 34,24,108,113,0 82,58,174,156,13 128,82,193,184,9 171,147,234,225,18 199,160,273,250,18
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1023).jpg 36,37,109,149,3
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1013).jpg 26,19,118,114,24 85,65,172,155,1 128,97,207,184,16 152,128,243,219,26 205,175,279,248,0
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1015).jpg 17,32,119,139,18
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1017).jpg 32,31,110,138,6 115,64,178,166,11 153,103,212,206,19
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1019).jpg 51,45,113,131,13 98,62,185,154,27 124,101,216,188,28 151,132,230,211,15 184,147,279,240,17
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1018).jpg 18,15,112,103,22 87,49,149,149,6 150,93,198,171,19 161,139,247,214,3
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1016).jpg 43,46,116,135,0 99,68,194,161,16 133,111,232,187,18 186,132,266,230,9 214,183,287,250,6
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(102).jpg 34,24,108,113,0 82,58,174,156,15 128,82,193,184,9 171,147,234,225,14 199,160,273,250,14
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1022).jpg 45,0,110,85,6 62,43,149,120,11 109,72,163,143,23 126,94,215,194,17
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1024).jpg 29,3,121,75,4 57,51,143,123,11 77,61,172,150,3 125,106,211,176,4 164,135,242,222,24
 C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1020).jpg 33,9,126,104,29
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1021).jpg 30,18,120,100,25 83,42,155,127,15 102,93,186,134,24 128,101,216,186,26 181,150,261,228,22
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1022).jpg 45,0,110,85,3 62,43,149,120,11 109,72,163,143,21 126,94,215,194,15
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1024).jpg 29,3,121,75,1 57,51,143,123,11 77,61,172,150,6 125,106,211,176,1 164,135,242,222,23
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1026).jpg 29,53,118,140,20 115,98,200,176,19
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1025).jpg 44,73,116,130,21 123,88,188,180,14
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1029).jpg 17,36,109,129,4 95,73,184,157,22 154,107,215,204,8 175,146,258,229,17
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1027).jpg 39,13,105,103,16 81,36,152,134,11 107,96,187,154,24
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1028).jpg 37,51,120,121,25 90,82,182,160,13
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1030).jpg 40,10,123,62,22 57,29,137,114,10 131,88,187,175,17 108,73,190,152,22 151,127,224,216,16
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(103).jpg 39,25,126,118,14
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1032).jpg 26,45,120,118,1 95,72,172,154,16
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1031).jpg 30,29,122,122,6 93,81,176,152,1 120,95,218,195,27
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1033).jpg 26,11,121,90,20 74,46,152,125,0 119,75,168,155,17 143,108,202,195,16
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1034).jpg 46,65,122,126,21 121,74,186,149,23 129,104,225,199,6
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1037).jpg 29,9,129,99,20
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1035).jpg 31,55,120,150,29 99,71,181,166,23 151,122,236,209,29 200,168,267,240,22 211,172,279,250,9
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1036).jpg 41,30,127,103,16
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1038).jpg 28,21,129,109,6
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1021).jpg 30,18,120,100,25 83,42,155,127,17 102,93,186,134,21 128,101,216,186,26 181,150,261,228,20
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1023).jpg 36,37,109,149,6
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1027).jpg 39,13,105,103,18 81,36,152,134,11 107,96,187,154,21
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1028).jpg 37,51,120,121,25 90,82,182,160,15
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1029).jpg 17,36,109,129,1 95,73,184,157,20 154,107,215,204,8 175,146,258,229,19
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1026).jpg 29,53,118,140,22 115,98,200,176,16
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1025).jpg 44,73,116,130,23 123,88,188,180,13
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1031).jpg 30,29,122,122,3 93,81,176,152,4 120,95,218,195,27
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1032).jpg 26,45,120,118,4 95,72,172,154,18
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(103).jpg 39,25,126,118,13
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1030).jpg 40,10,123,62,20 57,29,137,114,10 131,88,187,175,19 108,73,190,152,20 151,127,224,216,18
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1033).jpg 26,11,121,90,22 74,46,152,125,0 119,75,168,155,19 143,108,202,195,18
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1036).jpg 41,30,127,103,18
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1035).jpg 31,55,120,150,29 99,71,181,166,24 151,122,236,209,29 200,168,267,240,20 211,172,279,250,9
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1037).jpg 29,9,129,99,22
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1034).jpg 46,65,122,126,23 121,74,186,149,24 129,104,225,199,3
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1038).jpg 28,21,129,109,3
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1042).jpg 39,21,122,107,26 72,39,153,130,11 126,104,204,150,21
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(104).jpg 21,44,121,130,26 123,67,191,169,6
 C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1041).jpg 37,10,109,112,7
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1040).jpg 49,11,94,96,29 61,28,140,120,27 102,63,162,132,2 140,104,222,192,29
 C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1039).jpg 39,53,135,142,28
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1042).jpg 39,21,122,107,26 72,39,153,130,11 126,104,204,150,24
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(104).jpg 21,44,121,130,26 123,67,191,169,3
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1045).jpg 133,113,215,195,26 41,19,121,104,27 80,39,148,124,17 117,77,185,155,0
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1044).jpg 36,45,121,136,25 94,80,190,158,6
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1046).jpg 31,25,128,100,19
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1040).jpg 49,11,94,96,29 61,28,140,120,27 102,63,162,132,5 140,104,222,192,29
 C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1043).jpg 32,35,128,121,26
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1047).jpg 35,47,118,132,18
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1048).jpg 23,55,125,144,28 128,100,211,192,15 114,86,189,146,1
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1049).jpg 29,17,126,109,22
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1050).jpg 43,64,120,141,5 121,77,189,170,7 166,146,248,219,20 167,107,234,198,9 230,172,280,250,7
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(105).jpg 39,45,123,121,1 97,70,183,152,28 125,95,210,190,27
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1051).jpg 51,15,106,86,14 69,22,131,120,9
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1056).jpg 47,6,113,103,16
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1053).jpg 24,40,125,138,4 128,97,202,167,1 149,93,215,200,9
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1052).jpg 30,21,121,95,23 75,34,141,137,9 115,96,201,167,19 141,113,207,198,0 181,132,254,236,8
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1054).jpg 37,13,115,100,14 77,52,170,145,13
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1055).jpg 37,44,119,132,22 111,73,161,142,2 139,112,200,196,12 179,123,233,231,7
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1044).jpg 36,45,121,136,25 94,80,190,158,3
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1046).jpg 31,25,128,100,16
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1045).jpg 133,113,215,195,26 41,19,121,104,27 80,39,148,124,19 117,77,185,155,0
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1047).jpg 35,47,118,132,14
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(105).jpg 39,45,123,121,4 97,70,183,152,28 125,95,210,190,27
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1048).jpg 23,55,125,144,28 128,100,211,192,17 114,86,189,146,4
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1049).jpg 29,17,126,109,20
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1050).jpg 43,64,120,141,2 121,77,189,170,7 166,146,248,219,22 167,107,234,198,9 230,172,280,250,7
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1051).jpg 51,15,106,86,13 69,22,131,120,9
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1056).jpg 47,6,113,103,18
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1053).jpg 24,40,125,138,1 128,97,202,167,4 149,93,215,200,9
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1052).jpg 30,21,121,95,24 75,34,141,137,9 115,96,201,167,16 141,113,207,198,0 181,132,254,236,8
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1054).jpg 37,13,115,100,13 77,52,170,145,15
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1055).jpg 37,44,119,132,20 111,73,161,142,5 139,112,200,196,12 179,123,233,231,7
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1058).jpg 20,3,110,93,25 78,50,152,118,14 93,62,172,142,19 122,112,211,185,25
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1060).jpg 32,13,108,106,13 74,48,164,144,27
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(106).jpg 28,28,111,109,24 83,39,144,140,12 113,101,211,164,2 152,116,203,186,23
 C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1057).jpg 33,2,128,93,27
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1060).jpg 32,13,108,106,14 74,48,164,144,27
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1059).jpg 30,15,104,114,9 102,67,163,150,0 116,81,182,167,14 159,119,231,213,16
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1058).jpg 20,3,110,93,25 78,50,152,118,18 93,62,172,142,17 122,112,211,185,25
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(106).jpg 28,28,111,109,23 83,39,144,140,12 113,101,211,164,5 152,116,203,186,21
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1064).jpg 43,11,113,80,22 51,22,137,106,22 123,96,217,187,13 101,73,164,140,3
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1061).jpg 29,27,132,106,17
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1062).jpg 41,35,116,125,23 89,73,180,161,27 151,115,207,195,14 176,126,247,223,30
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1063).jpg 30,69,125,140,25 108,87,202,165,17 156,121,228,209,3 196,154,261,240,3 227,185,276,250,17
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1065).jpg 37,31,122,141,8 126,87,200,163,18 147,113,218,201,15 164,130,242,218,10 206,164,271,250,17
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1059).jpg 30,15,104,114,9 102,67,163,150,0 116,81,182,167,13 159,119,231,213,18
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1065).jpg 37,31,122,141,8 126,87,200,163,14 147,113,218,201,17 164,130,242,218,10 206,164,271,250,19
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1064).jpg 43,11,113,80,20 51,22,137,106,20 123,96,217,187,15 101,73,164,140,6
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1062).jpg 41,35,116,125,24 89,73,180,161,27 151,115,207,195,13 176,126,247,223,30
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1063).jpg 30,69,125,140,25 108,87,202,165,19 156,121,228,209,6 196,154,261,240,6 227,185,276,250,19
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1061).jpg 29,27,132,106,19
 C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1069).jpg 23,4,126,96,25
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1066).jpg 41,62,116,125,24 94,61,183,145,23 134,108,224,201,29
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1067).jpg 16,35,119,127,6 95,72,183,169,9 155,110,208,183,2 171,136,244,233,2 205,175,297,250,4
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1068).jpg 26,31,102,149,7 109,77,202,177,29 159,135,241,197,21 195,164,271,244,18
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(107).jpg 38,4,112,100,3 59,36,151,111,28 83,58,181,153,23
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1071).jpg 38,5,111,78,2 62,56,151,105,24 105,84,191,131,24 136,106,217,200,18
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1073).jpg 15,13,128,124,13
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1070).jpg 29,24,117,100,6 67,51,157,124,1 113,76,198,159,28 148,111,232,199,6 157,130,249,228,28
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1072).jpg 38,50,114,145,3 109,99,195,150,24 151,117,219,187,2 177,155,255,239,5 215,168,284,250,8
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1074).jpg 44,41,116,113,18 72,62,151,140,23 108,84,199,169,20
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1075).jpg 29,44,116,139,16 121,76,186,162,14 164,121,213,212,16 184,129,253,235,8 209,186,294,250,26
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1078).jpg 44,31,118,130,10 84,53,176,159,4
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1076).jpg 71,34,154,131,18 30,25,108,73,24
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1079).jpg 33,6,104,111,3 64,47,163,139,26 97,66,191,162,30 131,103,217,202,10 175,124,256,226,9
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1077).jpg 20,29,120,127,23 106,81,179,159,10 134,103,209,188,29 161,132,247,222,10
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1068).jpg 26,31,102,149,7 109,77,202,177,29 159,135,241,197,23 195,164,271,244,14
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(107).jpg 38,4,112,100,6 59,36,151,111,28 83,58,181,153,24
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1067).jpg 16,35,119,127,3 95,72,183,169,9 155,110,208,183,5 171,136,244,233,5 205,175,297,250,1
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1066).jpg 41,62,116,125,21 94,61,183,145,24 134,108,224,201,29
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1073).jpg 15,13,128,124,15
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1074).jpg 44,41,116,113,14 72,62,151,140,24 108,84,199,169,22
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1072).jpg 38,50,114,145,6 109,99,195,150,21 151,117,219,187,5 177,155,255,239,2 215,168,284,250,8
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1070).jpg 29,24,117,100,3 67,51,157,124,4 113,76,198,159,28 148,111,232,199,3 157,130,249,228,28
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1071).jpg 38,5,111,78,5 62,56,151,105,21 105,84,191,131,21 136,106,217,200,14
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1075).jpg 29,44,116,139,18 121,76,186,162,13 164,121,213,212,18 184,129,253,235,8 209,186,294,250,26
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1077).jpg 20,29,120,127,24 106,81,179,159,10 134,103,209,188,29 161,132,247,222,10
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1079).jpg 33,6,104,111,6 64,47,163,139,26 97,66,191,162,30 131,103,217,202,10 175,124,256,226,9
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1078).jpg 44,31,118,130,10 84,53,176,159,1
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1076).jpg 71,34,154,131,14 30,25,108,73,21
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1083).jpg 37,44,124,144,8 109,76,164,148,5
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1081).jpg 31,22,122,98,4 83,69,174,121,21 105,88,198,170,10
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1080).jpg 49,26,118,130,18
 C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(108).jpg 33,2,121,118,9
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1080).jpg 49,26,118,130,16
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1081).jpg 31,22,122,98,1 83,69,174,121,24 105,88,198,170,10
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1083).jpg 37,44,124,144,8 109,76,164,148,2
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1082).jpg 19,32,119,131,2 98,85,198,162,1 144,128,233,175,24 160,127,226,211,23 200,148,277,250,8
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1084).jpg 38,1,117,96,8 89,51,138,130,21 111,69,182,166,12
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1086).jpg 40,29,115,128,0 94,54,149,132,2 121,79,207,189,27
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1088).jpg 26,13,118,108,27 86,65,163,144,20 113,89,191,171,14 146,118,217,207,18
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1082).jpg 19,32,119,131,5 98,85,198,162,4 144,128,233,175,21 160,127,226,211,24 200,148,277,250,8
 C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1085).jpg 42,50,127,139,0
-C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1087).jpg 24,45,124,144,6 113,83,193,170,27 136,111,210,196,16
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1088).jpg 26,13,118,108,27 86,65,163,144,22 113,89,191,171,13 146,118,217,207,14
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1084).jpg 38,1,117,96,8 89,51,138,130,23 111,69,182,166,12
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1086).jpg 40,29,115,128,0 94,54,149,132,5 121,79,207,189,27
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1087).jpg 24,45,124,144,3 113,83,193,170,27 136,111,210,196,18
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1090).jpg 37,48,123,122,30 106,74,161,142,23 152,101,230,187,9
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1092).jpg 31,39,127,121,16 155,108,199,174,5 200,154,293,250,10 177,121,238,219,12 112,61,165,151,7
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(109).jpg 148,96,221,186,12 111,74,177,154,10 60,42,137,120,0 33,2,116,88,22
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1091).jpg 36,31,129,132,8
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1089).jpg 40,39,118,127,8 192,163,286,242,1 148,123,224,199,22 125,106,206,182,22 110,62,165,129,12
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1097).jpg 45,73,124,137,4
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1095).jpg 66,26,164,117,17 36,0,95,89,9
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1093).jpg 37,43,132,122,26
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1094).jpg 21,0,115,83,26
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1096).jpg 36,5,99,102,9
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(110).jpg 45,43,116,88,21 96,51,163,136,14 113,71,190,150,22 147,103,215,184,9 173,142,262,225,20
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1100).jpg 183,135,272,225,8 140,105,202,188,0 112,75,189,154,13 69,38,158,113,28 29,8,100,92,9
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(11).jpg 29,55,118,98,21 151,112,215,203,9 194,168,280,242,10 116,121,199,150,25 130,76,179,149,23
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1099).jpg 41,30,118,117,13
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1098).jpg 46,11,115,85,1
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1105).jpg 35,20,127,105,1
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1102).jpg 43,21,119,104,20 131,74,187,170,6 98,62,167,136,2
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1103).jpg 24,13,111,100,17 103,69,164,141,13
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1104).jpg 125,100,212,172,3 95,80,154,145,24 67,23,149,116,0 43,0,98,87,25
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1101).jpg 43,58,127,130,4 163,136,257,218,20 142,113,193,201,14 121,78,192,166,10
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1108).jpg 119,84,192,158,25 73,61,156,118,2 62,16,109,96,18
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1106).jpg 133,100,200,171,0 85,44,162,129,16 30,14,106,92,22
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1109).jpg 39,36,110,136,9 170,142,248,187,21 126,85,199,173,7
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1107).jpg 36,42,114,137,3
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(111).jpg 34,45,108,140,9 113,77,193,174,16 156,132,243,196,10 182,175,261,221,25 216,181,295,249,20
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1111).jpg 81,36,143,105,23 53,17,102,94,13
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1113).jpg 88,55,166,148,27 71,36,134,113,3 33,0,105,82,14
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1110).jpg 62,32,142,115,12 28,9,118,79,1
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1112).jpg 31,27,111,110,9 94,56,176,142,8 128,83,197,176,8 180,116,241,203,30 195,176,268,222,21
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1114).jpg 28,27,119,126,29
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1116).jpg 187,127,246,225,12 128,112,211,185,18 90,70,172,140,10 39,2,109,97,8
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1118).jpg 148,119,231,196,15 164,146,258,224,28 105,81,184,156,20 89,49,149,134,10 34,8,97,93,14
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1119).jpg 19,23,109,115,16
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1115).jpg 161,141,244,213,26 152,103,210,166,5 97,71,180,154,27 83,35,140,94,5 22,1,116,84,24
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1117).jpg 94,70,165,147,25 64,32,135,117,9 35,2,118,87,27
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1123).jpg 147,137,229,203,25 116,65,185,164,8 43,39,99,132,6
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1122).jpg 26,22,107,101,22
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1120).jpg 74,42,157,132,27 33,13,105,99,29
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1121).jpg 47,25,93,118,12
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(112).jpg 172,115,228,213,7 139,93,190,178,7 93,62,183,148,15 53,47,110,112,13
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1125).jpg 81,54,163,129,22 37,34,118,109,26
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1126).jpg 130,89,201,171,19 155,134,232,176,21 86,54,171,129,22 29,34,114,99,4
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1127).jpg 31,48,116,132,30 175,142,252,220,19 137,113,221,196,26 119,77,182,153,0
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1128).jpg 78,27,136,121,8 40,5,101,82,10
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1124).jpg 94,79,183,156,20 25,46,106,119,22
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(113).jpg 47,65,116,136,2 114,83,186,169,9 199,160,240,222,5 205,184,285,250,29 157,113,218,200,29
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1129).jpg 35,45,113,112,18 104,68,165,139,13 119,109,201,179,3
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1131).jpg 73,42,155,116,10 28,0,114,81,17
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1130).jpg 45,54,119,128,2
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1132).jpg 103,82,179,120,5 84,42,158,124,29 42,20,114,98,2
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1135).jpg 41,13,118,87,26
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1133).jpg 62,47,147,116,10 38,1,109,71,9
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1134).jpg 136,120,221,194,3 34,43,120,133,20 187,165,265,235,20 141,85,181,143,19
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1136).jpg 30,51,113,120,3
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1137).jpg 49,16,102,83,5
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1139).jpg 104,91,185,129,21 25,47,111,117,28
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1138).jpg 146,124,229,207,29 139,96,181,167,19 98,67,149,139,13 37,11,105,106,8
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1140).jpg 120,80,185,163,18 75,60,158,132,16 49,25,120,98,2
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(114).jpg 148,111,211,194,0 116,80,178,158,20 75,55,154,120,4 36,4,102,83,19
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1141).jpg 167,136,241,211,1 129,107,218,176,26 93,67,184,135,28 75,29,122,117,19 43,19,120,83,30
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1142).jpg 184,148,254,233,8 157,117,200,196,19 109,90,199,159,24 29,37,110,123,30
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1144).jpg 37,55,118,132,22
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1145).jpg 152,121,234,201,22 122,79,179,168,7 90,36,140,131,7 33,12,118,100,17
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1146).jpg 163,130,210,195,16 120,99,201,174,28 102,68,158,132,16 26,18,106,96,22
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1143).jpg 48,33,112,103,1 121,86,198,169,27 109,58,147,122,5
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1149).jpg 165,140,265,220,26 46,45,116,129,12 107,80,191,147,4 159,125,204,166,21
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1148).jpg 175,133,257,214,29 151,97,205,188,12 104,69,164,156,12 73,36,153,119,20 27,7,108,89,26
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(115).jpg 44,56,118,101,21 95,69,180,146,28
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1147).jpg 120,78,189,156,29 76,48,148,123,22 37,10,112,87,3
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1150).jpg 31,23,110,101,25
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1152).jpg 196,165,270,228,20 151,121,202,186,23 122,91,193,152,20 86,51,152,128,9 33,32,115,106,25
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1154).jpg 146,98,224,183,8 93,62,159,152,9 35,25,102,107,19
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1153).jpg 24,13,110,88,22
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1155).jpg 33,19,109,113,8
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1151).jpg 175,145,252,231,17 165,124,226,189,24 129,107,189,163,23 88,51,173,141,27 46,23,93,110,7
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(116).jpg 108,66,175,153,12 44,44,116,122,3
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1159).jpg 166,128,233,211,17 124,96,209,170,26 99,73,172,134,20 29,11,108,103,30
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1156).jpg 107,97,190,153,2 85,38,144,124,12 35,27,113,89,25
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1157).jpg 140,96,214,182,8 89,71,170,136,4 66,28,132,118,12 22,0,108,74,10
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1158).jpg 89,71,170,138,4 54,49,107,118,13
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1162).jpg 175,144,250,227,29 129,122,214,188,3 103,63,185,144,17 52,57,112,128,6 52,57,112,128,31
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1163).jpg 179,141,224,211,23 124,97,205,175,20 115,59,161,160,12 40,45,118,122,15
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1161).jpg 78,25,138,118,9 35,8,117,88,15
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1160).jpg 90,65,169,137,28 58,35,140,109,22 68,7,107,40,18
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1164).jpg 93,63,185,151,15 69,38,147,123,1 34,2,112,84,16
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1169).jpg 104,56,177,150,9 56,27,106,117,30
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1166).jpg 29,20,118,103,24
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1167).jpg 96,76,170,146,18 62,38,142,113,22 27,2,109,71,28
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1168).jpg 158,128,236,200,26 114,89,194,159,24 75,62,163,124,4 53,28,123,102,29
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1165).jpg 54,12,110,90,13
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1171).jpg 92,74,168,149,22 57,26,147,110,15 38,11,124,76,26
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(117).jpg 150,125,226,201,26 189,161,270,246,27 142,100,198,176,18 99,58,157,146,6 35,24,103,107,0
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1173).jpg 194,132,259,222,9 128,103,212,183,20 104,78,191,161,28 37,57,125,121,18
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1172).jpg 146,126,220,172,21 104,69,180,149,3 62,41,149,112,24 36,12,119,87,25
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1170).jpg 138,112,215,179,4 108,54,168,147,9 72,42,149,115,22 45,1,96,83,19
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1177).jpg 160,145,242,192,21 144,101,194,168,23 87,68,174,138,4 42,13,103,105,7
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1176).jpg 100,73,174,152,22 34,41,116,117,25
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1175).jpg 146,139,234,203,2 134,105,200,182,14 90,65,180,150,3 52,42,99,123,19
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1174).jpg 108,90,197,167,29 43,35,90,130,12
+C:\Users\cdoherty\PycharmProjects\YOLO\Data\Source_Images\Training_Images\vott-csv-export\image%20(1178).jpg 160,121,216,187,13 114,92,196,158,4 85,49,151,128,6 50,25,120,97,2
