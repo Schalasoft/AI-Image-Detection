@@ -139,8 +139,8 @@ if __name__ == "__main__":
         "--postfix",
         type=str,
         dest="postfix",
-        default="_catface",
-        help='Specify the postfix for images with bounding boxes. Default is "_catface"',
+        default="_result",
+        help='Specify the postfix for images with bounding boxes. Default is "_result"',
     )
 
     FLAGS = parser.parse_args()
@@ -216,50 +216,47 @@ if __name__ == "__main__":
 
         # This is for images
         for i, img_path in enumerate(input_image_paths):
-            # Resize images because when the images are too small the tags are unreadable
-            # although this may effect the accuracy of the data model if it was trained on smaller images
 
-            basewidth = 300 # 3 times bigger, images are 300
-            img = Image.open(img_path)
-            wpercent = (basewidth / float(img.size[0]))
-            hsize = int((float(img.size[1]) * float(wpercent)))
-            img = img.resize((basewidth, hsize), Image.ANTIALIAS)
-            img.save(img_path)
-
-            print(img_path)
-            prediction, image = detect_object(
-                yolo,
-                img_path,
-                save_img=save_img,
-                save_img_path=FLAGS.output,
-                postfix=FLAGS.postfix,
-            )
-            y_size, x_size, _ = np.array(image).shape
-            for single_prediction in prediction:
-                out_df = out_df.append(
-                    pd.DataFrame(
-                        [
-                            [
-                                os.path.basename(img_path.rstrip("\n")),
-                                img_path.rstrip("\n"),
-                            ]
-                            + single_prediction
-                            + [x_size, y_size]
-                        ],
-                        columns=[
-                            "image",
-                            "image_path",
-                            "xmin",
-                            "ymin",
-                            "xmax",
-                            "ymax",
-                            "label",
-                            "confidence",
-                            "x_size",
-                            "y_size",
-                        ],
-                    )
+            # Ensure we don't load truncated images, just do a lazy resize as we know this throws the error...
+            # This will add extra time to the detection but saves the detection from failing
+            try:
+                print(img_path)
+                prediction, image = detect_object(
+                    yolo,
+                    img_path,
+                    save_img=save_img,
+                    save_img_path=FLAGS.output,
+                    postfix=FLAGS.postfix,
                 )
+                y_size, x_size, _ = np.array(image).shape
+                for single_prediction in prediction:
+                    out_df = out_df.append(
+                        pd.DataFrame(
+                            [
+                                [
+                                    os.path.basename(img_path.rstrip("\n")),
+                                    img_path.rstrip("\n"),
+                                ]
+                                + single_prediction
+                                + [x_size, y_size]
+                            ],
+                            columns=[
+                                "image",
+                                "image_path",
+                                "xmin",
+                                "ymin",
+                                "xmax",
+                                "ymax",
+                                "label",
+                                "confidence",
+                                "x_size",
+                                "y_size",
+                            ],
+                        )
+                    )
+            except:
+                print("TRUNCATED IMAGE IGNORING: " + img_path)
+
         end = timer()
         print(
             "Processed {} images in {:.1f}sec - {:.1f}FPS".format(
