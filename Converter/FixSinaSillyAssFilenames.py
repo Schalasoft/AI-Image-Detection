@@ -9,6 +9,7 @@ try:
 
     for file in files:
         fixed_name = file.replace(' (', '%20(')
+        fixed_name = file.replace('result', '')
         os.rename(image_path + file, image_path + fixed_name)
 
 finally:
