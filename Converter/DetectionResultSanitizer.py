@@ -42,8 +42,10 @@ def create_sanitized_detection_results(names):
 
             # Ignore CSV header on line 1
             count = count + 1
-            if name not in names and count != 1:
-                fp_sanitized.write(line)
+            if count == 1:
+                fp_sanitized.write(line) # write header line
+            elif name not in names:
+                fp_sanitized.write(line) # write sanitized result
 
     finally:
         fp.close()
