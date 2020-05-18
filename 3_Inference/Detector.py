@@ -1,5 +1,6 @@
 import importlib
 import os
+import string
 import sys
 
 
@@ -138,7 +139,7 @@ if __name__ == "__main__":
         "--postfix",
         type=str,
         dest="postfix",
-        default="_result",
+        default="_catface",
         help='Specify the postfix for images with bounding boxes. Default is "_catface"',
     )
 
@@ -202,6 +203,7 @@ if __name__ == "__main__":
     input_labels = [line.rstrip("\n") for line in class_file.readlines()]
     print("Found {} input labels: {} ...".format(len(input_labels), input_labels))
 
+
     if input_image_paths:
         print(
             "Found {} input images: {} ...".format(
@@ -214,11 +216,10 @@ if __name__ == "__main__":
 
         # This is for images
         for i, img_path in enumerate(input_image_paths):
-
             # Resize images because when the images are too small the tags are unreadable
             # although this may effect the accuracy of the data model if it was trained on smaller images
 
-            basewidth = 900 # 3 times bigger, images are 300
+            basewidth = 300 # 3 times bigger, images are 300
             img = Image.open(img_path)
             wpercent = (basewidth / float(img.size[0]))
             hsize = int((float(img.size[1]) * float(wpercent)))
@@ -233,7 +234,6 @@ if __name__ == "__main__":
                 save_img_path=FLAGS.output,
                 postfix=FLAGS.postfix,
             )
-
             y_size, x_size, _ = np.array(image).shape
             for single_prediction in prediction:
                 out_df = out_df.append(
