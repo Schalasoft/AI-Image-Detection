@@ -1,7 +1,8 @@
 import csv
+from Converter.ConvertHelper import ConvertHelper
 
 #with open('detection_results.csv', 'r') as csvfile:
-with open('../Data/Source_Images/Test_Image_Detection_Results/Detection_Results.csv', 'r') as csvfile:
+with open(ConvertHelper.DetectionResultFilePath, 'r') as csvfile:
   readCSV = csv.reader(csvfile, delimiter=',')
   next(readCSV)
 
