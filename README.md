@@ -23,7 +23,7 @@ Inference - Analysis of source images
 1) Run 'Detector.py'
 2) Check 'TrainYourOwnYOLO/Data/Source_Images/Test_Images/Test_Image_Detection_Results' for analysis results
 
-Converter - Post analysis with the intent on feeding back in the 
+Converter - Post analysis with the intent on feeding back in results to improve the models accuracy
 1) Check for valid images, moving "bad" ones to "Data/Source_Images/Test_Image_Detection_Results_Bad/" so they can be removed by the sanitizer script in the next step
 2) Run "DetectionResultSanitizer.py" to create "Detection_Results_Sanitized.csv"
 3) Optionally: Run "FixSinaSillyAssFilename.py" for cleaning up incorrect file names, edit as required but it will remove "result" and convert spaces to %20 as expected (if you're like Sina and messed up thousands of file names and want me to solve the mess lol)
