@@ -26,5 +26,5 @@ Inference - Analysis of source images
 Converter - Post analysis with the intent on feeding back in the 
 1) Check for valid images, moving "bad" ones to "Data/Source_Images/Test_Image_Detection_Results_Bad/" so they can be removed by the sanitizer script in the next step
 2) Run "DetectionResultSanitizer.py" to create "Detection_Results_Sanitized.csv"
-Optionally: Run "FixSinaSillyAssFilename.py" for cleaning up incorrect file names, edit as required but it will remove "result" and convert spaces to %20 as expected (if you're like Sina and messed up thousands of file names and want me to solve the mess lol)
-3) Run "savantConverter.py" to create "exported.csv" to re-train AI using the correctly tagged images from analysis (see step 3 of "Setup Tagging Images for Training")
+3) Optionally: Run "FixSinaSillyAssFilename.py" for cleaning up incorrect file names, edit as required but it will remove "result" and convert spaces to %20 as expected (if you're like Sina and messed up thousands of file names and want me to solve the mess lol)
+4) Run "savantConverter.py" to create "exported.csv" to re-train AI using the correctly tagged images from analysis (see step 3 of "Setup Tagging Images for Training")
